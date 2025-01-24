@@ -1,13 +1,12 @@
 # Встречайте, первый серьезный проект после AyaRei на этом аккаунте
 _*Волк красит траву*_ - игра о том как злые свиньи с самолета капали водой, мешая нашему бравому Волку её покрасить.
+
 Помоги Vолку покрасить траву!
 
 # Разработка
-Списки изменений: [CHANGELOG.md](https://github.com/dttric/electronica2/CHANGELOG.md)
-
-Текущая задача: https://github.com/dttric/electronica2/issues/1
+- Списки изменений: [CHANGELOG.md](https://github.com/dttric/electronica2/CHANGELOG.md)
+- Текущая задача: https://github.com/dttric/electronica2/issues/1
 
 ### Бюджет игры
-
 - 2 слойки
 - 2 бутылки мохито
