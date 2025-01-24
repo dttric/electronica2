@@ -4,8 +4,8 @@ _*Волк красит траву*_ - игра о том как злые сви
 Помоги Vолку покрасить траву!
 
 # Разработка
-- Списки изменений: https://github.com/dttric/electronica2/blob/main/CHANGELOG.md
-- Текущая задача: https://github.com/dttric/electronica2/issues/1
+- Списки изменений: [CHANGELOG.md](https://github.com/dttric/electronica2/blob/main/CHANGELOG.md)
+- Текущая задача: [Начинаем работать (#1)](https://github.com/dttric/electronica2/issues/1)
 
 ### Бюджет игры
 - 2 слойки
