@@ -6,6 +6,7 @@ _*Волк красит траву*_ - игра о том как злые сви
 # Разработка
 - Списки изменений: [CHANGELOG.md](https://github.com/dttric/electronica2/blob/main/CHANGELOG.md)
 - Текущая задача: [Начинаем работать (#1)](https://github.com/dttric/electronica2/issues/1)
+- Проект обновлений игры: [Обновления](https://github.com/users/dttric/projects/4)
 
 ### Бюджет игры
 - 2 слойки
